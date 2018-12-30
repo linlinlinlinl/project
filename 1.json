@@ -24,6 +24,16 @@
         "歌曲简介",
         "性别"
       ]
+    }，
+    {
+      "name" : "其他",
+      "age" : 0,
+      "secretIdentity" : "Other",
+      "powers" : [
+        "地图",
+        "GitHub",
+        "json"
+      ]
     }
    
   ]
