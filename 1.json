@@ -1,0 +1,30 @@
+{
+  "squadName" : "我的爱好",
+  "homeTown" : "Love Love",
+  "formed" : 2018,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "绘画",
+      "age" : 0,
+      "secretIdentity" : "简介",
+      "powers" : [
+        "油画",
+        "抽象画",
+        "彩铅画"
+      ]
+    },
+    {
+      "name" : "唱歌",
+      "age" : 0,
+      "secretIdentity" : "简介",
+      "powers" : [
+        "歌手介绍",
+        "歌曲简介",
+        "性别"
+      ]
+    }
+   
+  ]
+}
